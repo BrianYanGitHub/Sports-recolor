@@ -8,7 +8,7 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://www.espn.com/nba/team/_/name/cle/cleveland-cavaliers"]
+    "matches": ["https://www.espn.com/*"]
   }]
 
 }
