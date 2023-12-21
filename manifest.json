@@ -1,9 +1,12 @@
 {
   "manifest_version": 3,
 
-  "name": "Modify CSS and HTML",
+  "name": "NBA Color Rush",
   "version": "0.1.0",
-  "description": "Change color",
+  "description": "Change color of website",
+  "icons": {
+    "128": "bball.png"
+  },
 
   "content_scripts": [{
     "css": ["styles.css"],
