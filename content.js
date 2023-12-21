@@ -36,7 +36,10 @@ const teamObj = {
 
 for (let key in teamObj){
   if (currentUrl.indexOf(key) > -1){
-    document.querySelector('body').style.color = teamObj[key]
+    document.querySelector('body').style.color = `${teamObj[key]} !important` 
+    let allLinks = document.querySelectorAll('a') 
+    allLinks.forEach(link => link.style.color = `${teamObj[key]} !important` )
+   
   }
 }
 
