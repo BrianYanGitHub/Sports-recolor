@@ -14,7 +14,7 @@ const teamObj = {
   'atlanta-hawks': 'red',
   'charlotte-hornets': 'purple',
   'miami-heat': 'red',
-  'orlando-magic': 'lightblue',
+  'orlando-magic': 'blue',
   'washington-wizards': 'navy',
   'denver-nuggets': 'blue',
   'minnesota-timberwolves': 'navy',
@@ -23,13 +23,13 @@ const teamObj = {
   'utah-jazz': 'blue',
   'golden-state-warriors': 'yellow',
   'la-clippers': 'black',
-  'los-angeles-lakers': 'gold',
+  'los-angeles-lakers': 'purple',
   'phoenix-suns': 'orange',
   'sacramento-kings': 'purple',
   'dallas-mavericks': 'blue',
   'houston-rockets': 'red',
-  'memphis-grizzlies': 'lightblue',
-  'new-orleans-pelicans': 'navy',
+  'memphis-grizzlies': 'blue',
+  'new-orleans-pelicans': 'blue',
   'san-antonio-spurs': 'grey'
 }
 
